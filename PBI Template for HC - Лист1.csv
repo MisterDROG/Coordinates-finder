@@ -1,0 +1,35 @@
+,Company Name,Region,Location,Address 1,latitude,longitude,Distance from DZ,Zone,Market Domain,Industry Sector,Business Line,Company type,Product
+1,ЛАЙФ ЭНЕРДЖИ САНКТ-ПЕТЕРБУРГ,NW,Санкт-Петербург,197720 Г. САНКТ-ПЕТЕРБУРГ Г. ЗЕЛЕНОГОРСК ПРИМОРСКОЕ ШОССЕ ДОМ 502А ЛИТ. В ПОМ. 5Н,,,7064,R,DISTRIBUTORS(DIS ),Distributors,HC,,
+2,БЕЛЫЕ НОЧИ САНАТОРИЙ,NW,Санкт-Петербург,197706 Г. САНКТ-ПЕТЕРБУРГ Г. СЕСТРОРЕЦК 38-Й КМ. ПРИМОРСКОГО ШОССЕ Д. 2,,,7756,T,COMMUNITY CARE(CCA ),In patient care facility,HC,,
+3,МЦ НАДЕЖДА  САНКТ-ПЕТЕРБУРГ,NW,Санкт-Петербург,194358 САНКТ-ПЕТЕРБУРГ Г ЭНГЕЛЬСА ПР-КТ ДОМ 147 КОРПУС 1. ЛИТЕР Б,,,9817,S,COMMUNITY CARE(CCA ),Outpatient care facility,HC,AL-EXISTING CUSTOMER,PG
+4,ЭКО-БЕЗОПАСНОСТЬ МЦ  САНКТ-ПЕТЕРБУРГ,NW,Санкт-Петербург,191119 САНКТ-ПЕТЕРБУРГ Г ДОСТОЕВСКОГО УЛ 40-44 ЛИТ. А ПОМ. 6-Н,,,,,COMMUNITY CARE(CCA ),Outpatient care facility,HC,FORMER CLIENT,
+5,ЦЕНТР ИГОРЯ МЕДВЕДЕВА  МОСКВА,CR,Москва,127018 Г. МОСКВА УЛ. ОКТЯБРЬСКАЯ Д. 2,,,,,COMMUNITY CARE(CCA ),Outpatient care facility,HC,FORMER CLIENT,
+6,НИКА СПРИНГ ЦЕНТР  НИЖНИЙ НОВГОРОД,NN,Нижегородская область,603006 НИЖЕГОРОДСКАЯ ОБЛ НИЖНИЙ НОВГОРОД Г ОШАРСКАЯ УЛ ДОМ № 38 А,,,,,COMMUNITY CARE(CCA ),Outpatient care facility,HC,AL-EXISTING CUSTOMER,PG
+7,НОВАТЭК-МУРМАНСК,CR,Мурманская область,184682 МУРМАНСКАЯ ОБЛ СНЕЖНОГОРСК Г ПОБЕДЫ УЛ ДОМ 11 ОФИС 37,,,,,DISTRIBUTORS(DIS ),Distributors,HC,AL-EXISTING CUSTOMER,Bulk
+8,НОВОТЕРА  САНКТ-ПЕТЕРБУРГ,NW,Санкт-Петербург,191025 САНКТ-ПЕТЕРБУРГ Г КОЛОКОЛЬНАЯ УЛ ДОМ № 10 ЛИТ. А ПОМ. 11-Н,,,,,DISTRIBUTORS(DIS ),Distributors,HC,FORMER CLIENT,
+9,ОРКЛИ  САНКТ-ПЕТЕРБУРГ,NW,Санкт-Петербург,199178 САНКТ-ПЕТЕРБУРГ Г СРЕДНИЙ В.О. ПР-КТ ДОМ № 48 ПОМ. 20Н ЛИТ. А,,,,,COMMUNITY CARE(CCA ),Outpatient care facility,HC,FORMER CLIENT,
+10,ПАРАЦЕЛЬС  САНКТ-ПЕТЕРБУРГ,NW,Санкт-Петербург,197227 САНКТ-ПЕТЕРБУРГ Г КОМЕНДАНТСКИЙ ПР-КТ ДОМ № 11 ЛИТЕР В,,,,,COMMUNITY CARE(CCA ),Outpatient care facility,HC,FORMER CLIENT,
+11,ПАРИТЕТ  ИЖЕВСК,TR,Республика Удмуртия,426076 Г. ИЖЕВСК ПУШКИНСКАЯ ДОМ № 164 КВ.9,,,,,DISTRIBUTORS(DIS ),Distributors,HC,FORMER CLIENT,
+12,ПЕРВАЯ ХИРУРГИЯ  ОМСК,CR,Омская область,644048 Г. ОМСК ИРТЫШСКАЯ НАБЕРЕЖНАЯ Д. 34,,,,,COMMUNITY CARE(CCA ),Outpatient care facility,HC,FORMER CLIENT,
+13,ПЕРВАЯ ХИРУРГИЯ  МОСКВА,CR,Москва,125252 МОСКВА Г ГРИЗОДУБОВОЙ УЛ ДОМ № 2 КВ.141,,,,,COMMUNITY CARE(CCA ),Outpatient care facility,HC,FORMER CLIENT,
+14,ПЕРВЫЙ КЛИНИЧЕСКИЙ МЕДИЦИНСКИЙ ЦЕНТР  КОВРОВ,CR,Владимирская область,601900 ВЛАДИМИРСКАЯ ОБЛ КОВРОВ Г ВАТУТИНА УЛ ДОМ № 90,,,,,COMMUNITY CARE(CCA ),Outpatient care facility,HC,FORMER CLIENT,
+15,ПОЛИКЛИНИКА № 1 ВИТА МЕДИКУС  ВИДНОЕ,CR,Московская область,142701 МОСКОВСКАЯ ОБЛ ЛЕНИНСКИЙ Р-Н ВИДНОЕ Г ОЛЬХОВАЯ УЛ ДОМ № 11 КВ.1,,,,,COMMUNITY CARE(CCA ),Outpatient care facility,HC,FORMER CLIENT,
+16,ПРАЙМЕД-3 ООО,NW,Санкт-Петербург,196084 САНКТ-ПЕТЕРБУРГ Г КИЕВСКАЯ УЛ ДОМ № 3 ЛИТЕРА А ПОМЕЩЕНИЕ 101-Н,,,,,PRIMARY CARE AND SPECIALISTS(PCA),Dentist,HC,AL-EXISTING CUSTOMER,PG
+"17,ПРЕМЬЕР МЕДИКА,CR,Московская область,""""""143420 МОСКОВСКАЯ ОБЛ КРАСНОГОРСКИЙ Р-Н ВОРОНКИ Д 23.5 КМ АВТОМАГИСТРАЛИ """"""""БАЛТИЯ"""""""" ДОМ № 1"""""",,,,,COMMUNITY CARE(CCA ),Outpatient care facility,HC,AL-EXISTING CUSTOMER,PG"
+18,ПРЕСТИЖ И КАЧЕСТВО  МОСКВА,CR,Москва,125466 МОСКВА Г ЛАНДЫШЕВАЯ УЛ ДОМ № 14 КОРПУС 1,,,,,PRIMARY CARE AND SPECIALISTS(PCA),Dentist,HC,FORMER CLIENT,
+19,СПИК-ВЕРОНИКА  САНКТ-ПЕТЕРБУРГ,NW,Санкт-Петербург,197183 САНКТ-ПЕТЕРБУРГ Г САВУШКИНА УЛ ДОМ № 36 ЛИТ. А ПОМ. 6Н,,,,,PRIMARY CARE AND SPECIALISTS(PCA),Specialist Practitioners,HC,AL-EXISTING CUSTOMER,PG
+20,ИНСТИТУТ КРАСОТЫ  САНКТ-ПЕТЕРБУРГ,NW,Санкт-Петербург,197183 САНКТ-ПЕТЕРБУРГ Г САВУШКИНА УЛ ДОМ № 8 КОРПУС 2А,,,,,PRIMARY CARE AND SPECIALISTS(PCA),Specialist Practitioners,HC,FORMER CLIENT,
+21,СВЕЖЕЕ ДЫХАНИЕ  САНКТ-ПЕТЕРБУРГ,NW,Санкт-Петербург,197136 САНКТ-ПЕТЕРБУРГ Г БОЛЬШОЙ П.С. ПР-КТ ДОМ № 82 ЛИТ. А ПОМ. 21Н,,,,,PRIMARY CARE AND SPECIALISTS(PCA),Dentist,HC,AL-EXISTING CUSTOMER,PG
+22,СВОЯ КЛИНИКА  САНКТ-ПЕТЕРБУРГ,NW,Санкт-Петербург,197343 САНКТ-ПЕТЕРБУРГ Г МАТРОСА ЖЕЛЕЗНЯКА УЛ ДОМ № 57 ЛИТЕРА А ПОМ.103-Н,,,,,PRIMARY CARE AND SPECIALISTS(PCA),Specialist Practitioners,HC,FORMER CLIENT,
+23,СЕТЬ СЕМЕЙНЫХ МЕДИЦИНСКИХ ЦЕНТРОВ  МОСКВА,CR,Москва,129343 МОСКВА Г УРЖУМСКАЯ УЛ ДОМ № 1 КОРПУС 1 КВ.60,,,,,COMMUNITY CARE(CCA ),Outpatient care facility,HC,FORMER CLIENT,
+24,СКАНД-ГАЗ  САНКТ-ПЕТЕРБУРГ,NW,Санкт-Петербург,195176 САНКТ-ПЕТЕРБУРГ Г ПИСКАРЕВСКИЙ ПР-КТ ДОМ № 25,,,,,DISTRIBUTORS(DIS ),Distributors,HC,FORMER CLIENT,
+25,СМ-ДОКТОР  МОСКВА,CR,Москва,125130 Г. МОСКВА УЛ. ПРИОРОВА Д. 36 ЭТ.1 ПОМ.1 КОМ. 27 28,,,,,COMMUNITY CARE(CCA ),Outpatient care facility,HC,AL-EXISTING CUSTOMER,PG
+26,СМ-МЕД  МОСКВА,CR,Москва,121351 МОСКВА Г ЯРЦЕВСКАЯ УЛ ДОМ № 8,,,,,COMMUNITY CARE(CCA ),Outpatient care facility,HC,FORMER CLIENT,
+27,СМ-МЕДИКА  МОСКВА,CR,Москва,103055 Г. МОСКВА УЛ. ЛЕСНАЯ Д 57 СТР. 1,,,,,COMMUNITY CARE(CCA ),Outpatient care facility,HC,AL-EXISTING CUSTOMER,PG
+"28,СОГАЗ ПРОФМЕДИЦИНА  САНКТ-ПЕТЕРБУРГ,NW,Санкт-Петербург,""""""192102 САНКТ-ПЕТЕРБУРГ Г ФУЧИКА УЛ ДОМ № 4 ЛИТЕР """"""""А"""""""" ПОМЕЩЕНИЕ 9Н"""""",,,,,COMMUNITY CARE(CCA ),Outpatient care facility,HC,AL-EXISTING CUSTOMER,PG"
+29,СОЗВЕЗДИЕ-МЕД  НИЖНИЙ НОВГОРОД,NN,Нижегородская область,606108 НИЖЕГОРОДСКАЯ ОБЛ ПАВЛОВСКИЙ Р-Н ПАВЛОВО Г ФАВОРСКОГО УЛ ДОМ № 89,,,,,COMMUNITY CARE(CCA ),Outpatient care facility,HC,AL-EXISTING CUSTOMER,PG
+30,СОНОМЕД  БОР,NN,Нижегородская область,606440 НИЖЕГОРОДСКАЯ ОБЛАСТЬ БОР Г СТЕПАНА РАЗИНА УЛ ДОМ № 2М,,,,,COMMUNITY CARE(CCA ),Outpatient care facility,HC,AL-EXISTING CUSTOMER,PG
+31,МЕГАПОЛИС ДЕНТ СП  САНКТ-ПЕТЕРБУРГ,NW,Санкт-Петербург,196128 САНКТ-ПЕТЕРБУРГ Г МОСКОВСКИЙ ПР-КТ ДОМ № 155 ЛИТ. А ПОМ. 21Н,,,,,PRIMARY CARE AND SPECIALISTS(PCA),Dentist,HC,FORMER CLIENT,
+32,СП  САНКТ-ПЕТЕРБУРГ,NW,Санкт-Петербург,194044 САНКТ-ПЕТЕРБУРГ Г ПИРОГОВСКАЯ НАБ ДОМ № 5/2 ЛИТ. А ПОМ. 1-Н,,,,,COMMUNITY CARE(CCA ),Outpatient care facility,HC,FORMER CLIENT,
+33,СПОРТКЛИНИКА  СПБ,NW,Санкт-Петербург,194044 САНКТ-ПЕТЕРБУРГ Г БОЛЬШОЙ САМПСОНИЕВСКИЙ ПР-КТ ДОМ № 64,,,,,COMMUNITY CARE(CCA ),Outpatient care facility,HC,AL-EXISTING CUSTOMER,PG
+34,СТОМА МЕД  САНКТ-ПЕТЕРБУРГ,NW,Санкт-Петербург,199397 САНКТ-ПЕТЕРБУРГ Г КОРАБЛЕСТРОИТЕЛЕЙ УЛ ДОМ № 32 КОРПУС 3 ЛИТЕР А,,,,,PRIMARY CARE AND SPECIALISTS(PCA),Dentist,HC,FORMER CLIENT,
